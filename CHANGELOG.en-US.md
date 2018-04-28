@@ -34,7 +34,6 @@ timeline: true
 - 🐞 Fix less var naming convention. [#10275](https://github.com/ant-design/ant-design/issues/10275)
 - 🐞 Fix `Input.Group` align issue in Form. [#10281](https://github.com/ant-design/ant-design/issues/10281)
 - 🐞 Fix type for `placeholder` in `Select` component. [#10282](https://github.com/ant-design/ant-design/pull/10282) [@thomasthiebaud](https://github.com/thomasthiebaud)
-- 🐞 Fix `Upload` onChange arg type when beforeUpload return false. [#10293](https://github.com/ant-design/ant-design/issues/10293)
 
 ## 3.4.4
 

@@ -34,7 +34,6 @@ timeline: true
 - 🐞 修复 less 遍历命名约定不一致的问题。 [#10275](https://github.com/ant-design/ant-design/issues/10275)
 - 🐞 修复 `Input.Group` 在表单中对齐的问题。[#10281](https://github.com/ant-design/ant-design/issues/10281)
 - 🐞 修复 `Select` 组件 `placeholder` 的 ts 类型问题。[#10282](https://github.com/ant-design/ant-design/pull/10282) [@thomasthiebaud](https://github.com/thomasthiebaud)
-- 🐞 修复 `Upload` 组件当 beforeUpload 返回 false 时 onChange 参数的问题。[#10293](https://github.com/ant-design/ant-design/issues/10293)
 
 ## 3.4.4
 
